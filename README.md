@@ -1,4 +1,5 @@
 # Movies Site
 
-<p>Movies Site, built by @Nikala11.</p>
-<p>Responsive website with many features like left sidebar, auto image slider.</p>
+<p>Movies Site, built by <a href="https://github.com/Nikala11">@Nikala11.</a></p>
+
+<a href="https://nikala11.github.io/Coffee-Shop/">Project Demo</a>
